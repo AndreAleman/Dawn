@@ -1,4 +1,16 @@
 /* Color custom properties */
+/* Custom Fonts */
+
+@font-face {
+  font-family: 'Opposit Bold';
+  src: url('Opposit-Bold.otf') format("opentype");
+}
+
+@font-face {
+  font-family: 'Byrd Regular';
+  src: url(Byrd-Regular.otf) format("openType");
+}
+
 
 :root,
 .color-background-1 {
